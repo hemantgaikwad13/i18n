@@ -7,7 +7,7 @@
    },
    "mr":{
     "welcomeMessage":"स्वागत आहे!",
-    "normalMessage":"आशा आहे की तुम्हाला React वाचून आनंद होईल.",
+    "normalMessage":"आम्हाला आशा आहे की तुम्हाला React शिकायला आवडेल.",
     "greetingMessage":"तुमचा दिवस चांगला जावो.",
     "userStatMessage":"या session मध्ये <studentCount> विद्यार्थी शिकत आहेत."
    },

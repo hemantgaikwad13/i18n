@@ -7,11 +7,8 @@ function Home() {
   return (
     <div>
       <h1>{I18n("welcomeMessage")}</h1>
-
       <p>{I18n("normalMessage")}</p>
-
       <h3>{I18n("greetingMessage")}</h3>
-      
       <p>{I18n("userStatMessage", "<studentCount>", usersCount)}</p>
 
       <select
