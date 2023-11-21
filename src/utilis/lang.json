@@ -1,0 +1,20 @@
+{
+   "en":{
+    "welcomeMessage":"Welcome!",
+    "normalMessage":"We hope you enjoy learing React.",
+    "greetingMessage":"Have a great day!",
+    "userStatMessage":"<studentCount> students are learing in this session."
+   },
+   "mr":{
+    "welcomeMessage":"स्वागत आहे!",
+    "normalMessage":"आशा आहे की तुम्हाला React वाचून आनंद होईल.",
+    "greetingMessage":"तुमचा दिवस चांगला जावो.",
+    "userStatMessage":"या session मध्ये <studentCount> विद्यार्थी शिकत आहेत."
+   },
+   "hi":{
+    "welcomeMessage":"स्वागत है!",
+    "normalMessage":"हमें आशा है कि आपको React सीखने में आनंद आएगा |",
+    "greetingMessage":"आपका दिन अच्छा रहे ।",
+    "userStatMessage":"इस session में <studentCount> छात्र सीख रहे हैं।"
+   } 
+}
