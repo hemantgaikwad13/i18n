@@ -5,7 +5,7 @@ import I18n from "./../../utilis/i18n"
 function Home() {
     const usersCount= 15;
   return (
-    <div>
+    <div className='container'>
       <h1>{I18n("welcomeMessage")}</h1>
       <p>{I18n("normalMessage")}</p>
       <h3>{I18n("greetingMessage")}</h3>
@@ -16,7 +16,7 @@ function Home() {
       onChange={(e)=>{
         localStorage.setItem("lang",e.target.value);
         window.location.reload();
-      }}>
+      }} className='select-button'>
         <option value="mr">Marathi</option>
         <option value="hi">Hindi</option>
         <option value="en">English</option>
